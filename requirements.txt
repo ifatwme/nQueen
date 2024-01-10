@@ -1,0 +1,2 @@
+Pillow      9.5.0
+pygame      2.5.2
